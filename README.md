@@ -8,20 +8,14 @@ Prepared for: Oracle,Apple
 Prepared by: Benjamin hurst
 Proposal number: 1.0.3
 
-
-Executive Summary
-    Compensation shall be invoiced bi-weekly for a total of 88 hours of work at $25,000 included in such is a deduction for any educational needs such tuition, courses or other forms of certification to further solidify the credibility of my work and reasoning as for why I’m confident in my work and it’s functionality. Also any travel expenses are included yet this does not pertain to nor include any housing expenses or relocation expenses that may apply to any agreement established between myself and your limited liability corporation and it’s partners. The invoice has been sent in advance as well as a pre-proposal to better establish an understanding of the project and its projected compensation to be desired.
-
 Objective
 To create and emit an array of light in a controlled environment that intersect multiple corresponding arrays in a manner that reflects a three dimensional structure or object that has substances in such a way that one could almost be deceived into thinking the object is real. 
 
 
 Overview of Structure       
-        Objects are embedded into an array as the root object as to create the controlled environment that is indexable and concise with a linear structure of eminence. 
-        
-         Then following the root array we establish arrays of axioms and  which allows us to intersect these axioms in a manner that can be translated across the arrays of corresponding arrays for motion and animation of the holographic image desired.
-         
-          The linear structure allows for the object to the have multiple light arrays of type array embedded and also allows for a start and ending point to be indexed to and from.
+Objects are embedded into an array as the root object as to create the controlled environment that is indexable and concise with a linear structure of eminence. 
+Then following the root array we establish arrays of axioms and  which allows us to intersect these axioms in a manner that can be translated across the arrays of corresponding arrays for motion and animation of the holographic image desired.
+The linear structure allows for the object to the have multiple light arrays of type array embedded and also allows for a start and ending point to be indexed to and from.
 
 Understanding how the projection becomes 3D
 
