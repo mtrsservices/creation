@@ -11,7 +11,7 @@ public static int high;
 public static LArr[N,"L1ProjectionOutput","L2ProjectionOutput","L3ProjectionOutput","L4ProjectionOutput","L5ProjectionOutput"];
 public static final low = LArr[0]; 
 public static final high = LArr[4];
-Public static N = LArr[];
+public static N = LArr[];
  
 public class quicksort(){
 new quicksort = Quicksort();
