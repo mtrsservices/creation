@@ -8,7 +8,7 @@ Package "L5ProjectionOutput.java";
 
 public static int low;
 public static int high;
-public static LArr[L1ProjectionOutput,L2ProjectionOutput,L3ProjectionOutput,L4ProjectionOutput,L5ProjectionOutput];
+public static LArr["L1ProjectionOutput","L2ProjectionOutput","L3ProjectionOutput","L4ProjectionOutput","L5ProjectionOutput"];
 public static final low = LArr[0]; 
 public static final high = LArr[4]; 
  
