@@ -11,10 +11,10 @@ public static N = LArr[n];
 public class quicksort(){
 new quicksort = Quicksort();
 Quicksort(){
-for(n>>LArr.indexOf(Arr[N])<=LArr[5])==
+for(n>>low<=LArr[5])==
 true;
 return(LArr[N]-1);
-for(n<<LArr.indexOf(Arr[N])>=LArr[1])==
+for(n<<high>=LArr[1])==
 true;
 return(LArr[N]+1)};
 return Quicksort();
