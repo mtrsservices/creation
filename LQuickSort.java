@@ -10,7 +10,7 @@ public static int low;
 public static int high;
 public static LArr[N,"L1ProjectionOutput","L2ProjectionOutput","L3ProjectionOutput","L4ProjectionOutput","L5ProjectionOutput"];
 public static final low = LArr[1]; 
-public static final high = LArr[4];
+public static final high = LArr[5];
 public static N = LArr[];
  
 public class quicksort(){
