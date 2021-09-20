@@ -16,7 +16,7 @@ public static N = LArr[];
 public class quicksort(){
 new quicksort = Quicksort();
 this.Quicksort(LArr[n],n++1,n--1,n<=5){
-For(n>=low);
+for(n>=low);
 then(n++1);
 for(n<=high);
 then(n--1)};
