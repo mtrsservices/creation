@@ -1,14 +1,14 @@
 # creation
-Holographic 
+###Holographic 
 
 
-Holographic Array paradigm and Interface
-Code name: Creation 
-Prepared for: Oracle,Apple 
-Prepared by: Benjamin hurst
-Proposal number: 1.0.3
+#Holographic Array paradigm and Interface
+#Code name: Creation 
+#Prepared for: Oracle,Apple 
+#Prepared by: Benjamin hurst
+#Proposal number: 1.0.3
 
-Objective
+#Objective
 To create and emit an array of light in a controlled environment that intersect multiple corresponding arrays in a manner that reflects a three dimensional structure or object that has substances in such a way that one could almost be deceived into thinking the object is real. 
 
 
