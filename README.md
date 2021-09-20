@@ -1,23 +1,23 @@
 # creation
-###Holographic 
+<h1>Holographic</h1> 
 
 
-#Holographic Array paradigm and Interface
-#Code name: Creation 
-#Prepared for: Oracle,Apple 
-#Prepared by: Benjamin hurst
-#Proposal number: 1.0.3
+#<h3>Holographic Array paradigm and Interface<h3>
+ #<h2>Code name: Creation</h2> 
+ #<h2>Prepared for: Oracle,Apple</h2> 
+ #<h2>Prepared by: Benjamin hurst</h2>
+ #<h2>Proposal number: 1.0.3</h2>
 
-#Objective
-To create and emit an array of light in a controlled environment that intersect multiple corresponding arrays in a manner that reflects a three dimensional structure or object that has substances in such a way that one could almost be deceived into thinking the object is real. 
+ #<h3>Objective</h3>
+<a>To create and emit an array of light in a controlled environment that intersect multiple corresponding arrays in a manner that reflects a three dimensional structure or object that has substances in such a way that one could almost be deceived into thinking the object is real. </a>
 
 
-Overview of Structure       
-Objects are embedded into an array as the root object as to create the controlled environment that is indexable and concise with a linear structure of eminence. 
+ <h2>Overview of Structure</h2>       
+<h1>Objects are embedded into an array as the root object as to create the controlled environment that is indexable and concise with a linear structure of eminence. 
 Then following the root array we establish arrays of axioms and  which allows us to intersect these axioms in a manner that can be translated across the arrays of corresponding arrays for motion and animation of the holographic image desired.
-The linear structure allows for the object to the have multiple light arrays of type array embedded and also allows for a start and ending point to be indexed to and from.
+The linear structure allows for the object to the have multiple light arrays of type array embedded and also allows for a start and ending point to be indexed to and from.</h1>
 
-Understanding how the projection becomes 3D
+ <h6>Understanding how the projection becomes 3D</h6>
 
 
 This projects foundation will be dependent on a new paradigm model that is array oriented and will consist of the following structure:
